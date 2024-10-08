@@ -1,5 +1,5 @@
-[16:35:34.468] [T1] [DS=False] DEBUG | Log Started
-[16:35:34.518] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[23:36:44.661] [T1] [DS=False] DEBUG | Log Started
+[23:36:44.707] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1393,6 +1393,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/SmallBlockReconCamDetector
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_HeavyMetal_Spinal_Rotary
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Fixed_Coil_Cannon
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -1621,10 +1622,8 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Mk3_Cannon_Turret
-->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Mk3_Cannon_Surface_Turret
-->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Mk2_Cannon_Turret
 ->-> Setting added successfully
@@ -1848,6 +1847,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Type18_Artillery
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Type21_Artillery
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Light_Coil_Turret
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -2442,6 +2442,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Decoy/LargeDecoy_MetalFoam
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor_Slanted
 ->-> Setting added successfully
