@@ -277,16 +277,6 @@
       <PublishedFileId>2832531817</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Homeworld Pack">
-      <Name>3325021330.sbm</Name>
-      <PublishedFileId>3325021330</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Homeworld Craft">
-      <Name>2906479598.sbm</Name>
-      <PublishedFileId>2906479598</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Halo Craft">
       <Name>2902780249.sbm</Name>
       <PublishedFileId>2902780249</PublishedFileId>
