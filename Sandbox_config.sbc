@@ -592,6 +592,11 @@
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DoorDestroyer">
+      <Name>3387631719.sbm</Name>
+      <PublishedFileId>3387631719</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Starcore GT4</SessionName>
   <LastSaveTime>2024-10-08T03:19:54.2368754-05:00</LastSaveTime>
